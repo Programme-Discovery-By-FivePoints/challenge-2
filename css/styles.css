@@ -1,0 +1,30 @@
+.title {
+    text-align: center;
+    color: red;
+}
+
+.sub-title{
+    text-align: center;
+    color: red;
+}
+
+.paragraphe {
+    background-color: gray;
+    color: white;
+    padding: 20px 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.btn {
+    background-color: gray;
+    padding: 10px 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.btn a {
+    color: white;
+}
